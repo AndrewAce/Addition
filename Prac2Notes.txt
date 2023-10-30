@@ -1,0 +1,25 @@
+Prac 2 
+
+Commands for GIT
+mkdir [file name] - making a new directory
+cd [file name] - to enter the directory
+git Init - to start git
+start [application(eg Notepad)] [filename].[filetype]
+git commit -m "text" - to commit 
+git status - to check
+git ls-files - to check the files in git
+git remote add origin https://github.com/andrewace/newrepo.git - to push the repo to github
+git checkout master - to change the branch
+git add [filename] 
+git merge [branch name] - merge to main branch when in main 
+git push -u origin main - to push to main branch
+
+When in sub branch:
+First pull all things from main branch
+Resolve conflicts if any
+Make changes in sub branch
+Commit changes
+Push changes
+
+Go main branch
+Pull sub branch (Fletch + merge)
